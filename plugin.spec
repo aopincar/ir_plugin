@@ -12,3 +12,8 @@ subparsers:
                       type: Bool
                       help: Master Branch - Option 1
                       default: False
+                  B1O1:
+                      type: Bool
+                      help: B1 - Option 1
+                      default: False
+
